@@ -1,3 +1,3 @@
-fun main(vararg args:String){
-    println("Hello Kotlin")
+fun main(){
+    println("Hello Kotlin 1.3")
 }
